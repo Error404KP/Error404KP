@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Isaac_M_R! <img src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" width="30"></h1>
-  <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
+  <img src="" alt="**********" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
 <br/>
 
 <p align="center">
