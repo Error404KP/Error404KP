@@ -161,5 +161,4 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw"
 <br>
 
 ------
-Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
-Last Edited On: 18/04/2022
+
