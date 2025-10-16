@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://github.com/Error404KP/Primero-Materias/blob/main/WhatsApp%20Image%202025-10-15%20at%207.01.08%20PM.jpeg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="336" />
 <hr>
 
 
@@ -18,6 +18,7 @@ I-am-Isaac_M_R
 🔭 Me desempeño como Frontend y Backend
 🚩 Interesado en el desarrollo de aplicaciones móviles como de escritorio
 🎮 Experiencia en desarrollo y programación de videojuegos
+
 ⢕⢕⢕⢕⠁⢜⠕⢁⣴⣿⡇⢓⢕⢵⢐⢕⢕⠕⢁⣾⢿⣧⠑⢕⢕⠄⢑⢕⠅⢕
 ⢕⢕⠵⢁⠔⢁⣤⣤⣶⣶⣶⡐⣕⢽⠐⢕⠕⣡⣾⣶⣶⣶⣤⡁⢓⢕⠄⢑⢅⢑
 ⠍⣧⠄⣶⣾⣿⣿⣿⣿⣿⣿⣷⣔⢕⢄⢡⣾⣿⣿⣿⣿⣿⣿⣿⣦⡑⢕⢤⠱⢐
@@ -103,21 +104,30 @@ I-am-Isaac_M_R
 
 
 ## GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=LulietLyan&theme=radical&show_icons=true&count_private=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+  <br></br>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LulietLyan&theme=transparent&background=45%2C000000%2C130F40&border=7A7ADB&fire=7A7ADB&currStreakNum=D3D3D3&sideLabels=D3D3D3&stroke=D3D3D3&sideNums=D3D3D3&ring=2234AE&currStreakLabel=D3D3D3&dates=D3D3D3&excludeDaysLabel=D3D3D3" alt="GitHub Streak" /></a>
+</td>
 
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LulietLyan&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+</p>        
+<!--- stats (end) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-|                                                                     Vishal's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=I-am-vishalmaurya&theme=react-dark&hide_border=true&area=true) |
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&theme=algolia)              | 
-| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-am-vishalmaurya&theme=algolia)                    | 
-    
-
-|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
-
-
-
+| Contribuciones de comer serpientes en el último año |
+| ------------------------------------------|
+| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) |
 
 <table style="border: none">
   <tr>
@@ -142,6 +152,13 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw"
   </td>
   </tr>
 </table>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+<a href="https://www.facebook.com/share/19gsSYczbV/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridoy.the.hazard10" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ramirez_mendoza_isaac?igsh=MXc1Z29jOHZuaWJydA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a>
+<a href="https://github.com/Error404KP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
+    
+<br>
 
 ------
 Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
