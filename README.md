@@ -14,7 +14,7 @@
 I-am-Isaac_M_R
 -------------------------
 💻 Soy desarrollador de software
-📝 Tengo un gran interés en la Ciencia de Datosy la Inteligencia
+📝 Tengo un gran interés en la Ciencia de Datos y la Inteligencia
 Artificial
 🔭 Me desempeño como Frontend y Backend
 🚩 Interesado en el desarrollo de aplicaciones móviles
